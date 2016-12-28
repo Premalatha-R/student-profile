@@ -1,3 +1,3 @@
 # student-profile
-copy psgst folder to D:\ drive
+unzip and copy psgst folder to D:\ drive
 
